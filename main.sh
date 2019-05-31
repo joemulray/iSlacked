@@ -1,5 +1,6 @@
 #!/bin/bash
 
+PATH=/usr/bin/
 EMOJICONFIG="emoji.config"
 
 initapplescript(){
