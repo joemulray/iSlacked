@@ -4,4 +4,4 @@ matrix:
       language: generic
       sudo: required
 
-      script: sh main.sh
+      script: ./main.sh
