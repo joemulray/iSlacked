@@ -48,3 +48,4 @@ done < "$EMOJICONFIG"
 
 
 main "@"
+
