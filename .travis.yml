@@ -1,4 +1,8 @@
+python:
+  - "2.7"
 matrix:
+  install:
+    - sudo pip install osascript
   include:
     - os: oxs
       language: bash
