@@ -1,0 +1,7 @@
+matrix:
+  include:
+    - os: oxs
+      language: generic
+      sudo: required
+
+      script: sh main.sh
