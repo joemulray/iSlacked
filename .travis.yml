@@ -1,0 +1,13 @@
+python:
+  - "2.7"
+matrix:
+  install:
+    - sudo pip install osascript
+  include:
+    - os: oxs
+      language: bash
+      osx_image: xcode10.1
+      xcode_sdk: macosx10.14
+      sudo: required
+
+      script: bash main.sh

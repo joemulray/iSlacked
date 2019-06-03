@@ -1,5 +1,6 @@
-#!/usr/bin/sh
+#!/bin/bash
 
+PATH=/usr/bin/
 EMOJICONFIG="emoji.config"
 
 initapplescript(){
@@ -48,3 +49,4 @@ done < "$EMOJICONFIG"
 
 
 main "@"
+
