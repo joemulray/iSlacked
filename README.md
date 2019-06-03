@@ -1,2 +1,5 @@
 # iSlacked
-:relieved: :satisfied: :grin: :wink: :stuck_out_tongue_winking_eye: :stuck_out_tongue_closed_eyes: :grinning: :kissing: :kissing_smiling_eyes: :stuck_out_tongue: :sleeping:
+
+### Introduction
+
+The purpose of this script is to map emojis to keyboard shortcuts, same as slack does. This script will install of them for you as there is no proccess curently in place to mass add keyboard shortcuts
